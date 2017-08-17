@@ -10,6 +10,6 @@ setup(
     author_email='',
     install_requires=[
         "google-cloud-storage"
-    ]
+    ],
     description='Some utilities for google cloud'
 )
